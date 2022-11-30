@@ -1,1 +1,5 @@
 find dist/assets/*.js -type f -execdir echo '{}' ';'
+
+
+Environment Variables
+https://docs.github.com/en/actions/learn-github-actions/environment-variables#default-environment-variables
